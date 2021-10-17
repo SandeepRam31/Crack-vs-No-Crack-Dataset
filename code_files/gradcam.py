@@ -7,8 +7,7 @@ import os
 import numpy as np
 import imutils
 import cv2
-import datetime 
-from time import strftime 
+
 
 class GradCAM:
     def __init__(self, model, classIdx, layerName=None):
