@@ -8,6 +8,7 @@
 ### Summary
 I have used a convolutional neural network to classify between crack and no crack images. The model has 5000+ parameters, hence trains really fast. 
 I have also implemented Grad Cam, which allows us to visualize the place in the image where the crack is present.
+The trainied model is saved in a folder called "neural network", inside the code_files directory. Please do not delete or make changes to this file
 
 ### Model Summary
 
