@@ -3,7 +3,7 @@
 ### How to use this
 * Run "pip install -r requirements.txt"
 * Go inside code files and open gradcam.py
-* Uncomment one of the 3 lines at the bottom of the file to predict on image, get highlights or predict on directory
+* Uncomment one of the 4 lines at the bottom of the file to predict on image, get highlights, predict on directory or get the area that has been cracked
 
 ### Summary
 I have used a convolutional neural network to classify between crack and no crack images. The model has 5000+ parameters, hence trains really fast. 
