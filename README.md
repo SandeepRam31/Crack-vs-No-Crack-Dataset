@@ -20,4 +20,9 @@ The trainied model is saved in a folder called "neural network", inside the code
 
 ![image](https://user-images.githubusercontent.com/55907397/137615769-1fb04f55-9e0a-4ff5-ba29-69768093ad41.png)
 
+### Model Output
+
+![image](https://user-images.githubusercontent.com/55907397/137617556-ef634766-f518-4d1f-a774-eb99fefaf07c.png)
+
+
 Feel free to create a new branch to add files or make changes to this repository
