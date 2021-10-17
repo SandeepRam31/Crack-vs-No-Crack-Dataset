@@ -10,3 +10,4 @@ I have used a convolutional neural network to classify between crack and no crac
 I have also implemented Grad Cam, which allows us to visualize the place in the image where the crack is present.
 
 Model:
+![image](https://user-images.githubusercontent.com/55907397/137615699-83ad3a28-79e4-4923-8426-1a37544c65a5.png)
